@@ -28,7 +28,7 @@ A contrastive dataset that did not exist before, flags with real statistical gua
 Calibrate priors from human recordings, run the adjudicator study, add Hindi and reference-free (extempore) modes.
 
 ## Built with
-python, fastapi, pytorch, transformers (wav2vec2), praat-parselmouth, librosa, scipy, statsmodels, react, typescript, vite, tailwindcss, wavesurfer.js, katex, docker. AI assistance: Claude Code (see docs/AI_USAGE.md).
+python, fastapi, pytorch, transformers (wav2vec2), praat-parselmouth, librosa, scipy, statsmodels, react, typescript, vite, tailwindcss, wavesurfer.js, katex, docker. AI coding assistant used and disclosed (see docs/AI_USAGE.md).
 
 ## Links
 - GitHub: https://github.com/MananGilhotra/shruti
